@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iurii-anfinogenov
+- 👋 Hi, I’m Iurii Anfinogenov
 - 👀 I’m interested in Linux, Bash, Python 
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on Open source projects
